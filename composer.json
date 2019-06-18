@@ -1,0 +1,14 @@
+{
+    "name": "sam/project_manager",
+    "authors": [
+        {
+            "name": "samuel",
+            "email": "sam.faucher938@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Project_manager\\": "classes"
+        }
+    }
+}
